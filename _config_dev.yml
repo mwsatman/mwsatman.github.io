@@ -1,0 +1,34 @@
+# Dependencies
+markdown: kramdown
+# markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            mwsatman
+tagline:          'personal website'
+description:      'Ph.D. student, <br/>
+  <a href="http://www.fl.ctrl.titech.ac.jp/" target="_blank">Fujita-Yamauchi Lab. and Hatanaka Lab.</a>
+  <br/>
+  Department of Systems and Control Engineering,
+  Tokyo Institute of Technology'
+url:              https://mwsatman.github.io
+baseurl:          /
+
+author:
+  name:           'Made Widhi Surya Atman'
+  url:            https://mwsatman.github.io
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mwsatman
