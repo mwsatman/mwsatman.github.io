@@ -18,7 +18,7 @@ IEEE Control Systems Magazine, Vol. 40, No. 4, pp. 53-79, Aug. 2020.
 * 
 M.W.S. Atman, T. Hatanaka, Z. Qu, N. Chopra, J. Yamauchi, M. Fujita
 “**Motion Synchronization for Semi-autonomous Robotic Swarm with A Passivity-short Human Operator**” 
-Focused Section on Human-Centered Robotics, International Journal of Intelligent Robotics and Vol. 2, No. 2, pp. 235-251, June, 2018. 
+Focused Section on Human-Centered Robotics, International Journal of Intelligent Robotics and Applications, Vol. 2, No. 2, pp. 235-251, June, 2018. 
 ([DOI:10.1007/s41315-018-0056-8](https://doi.org/10.1007/s41315-018-0056-8))
 
 * 
@@ -31,7 +31,7 @@ Trans. the Society of Instrument and Control Engineers, Vol. 53, No. 12, pp. 663
 * 
 M.W.S. Atman and A. Gusrialdi
 “**Distributed Algorithms for Verifying and Ensuring Strong Connectivity in Directed Networks**”
-2021 60th IEEE Conference on Decision and Control (CDC), **_To be presented**_, 2021.
+2021 60th IEEE Conference on Decision and Control (CDC), **_To be presented_**, 2021.
 
 * 
 M.W.S. Atman, K. Noda, R. Funada, J. Yamauchi, T. Hatanaka, and M. Fujita
