@@ -4,11 +4,17 @@ title: Home
 ---
 
 # Research Interests
-Cooperative control of human - robotic network
+Cooperative control of human - robotic network, Distributed control
 
 
 # Publications
 ### Journal Article
+* 
+R. Funada, X. Cai, G. Notomista, M.W.S. Atman, J. Yamauchi, M. Fujita, M. Egerstedt
+“**Coordination of Robot Teams Over Long Distances: From Georgia Tech to Tokyo Tech and Back-An 11,000-km Multirobot Experiment**” 
+IEEE Control Systems Magazine, Vol. 40, No. 4, pp. 53-79, Aug. 2020. 
+([doi: 10.1109/MCS.2020.2990515](https://ieeexplore.ieee.org/abstract/document/9143250))
+
 * 
 M.W.S. Atman, T. Hatanaka, Z. Qu, N. Chopra, J. Yamauchi, M. Fujita
 “**Motion Synchronization for Semi-autonomous Robotic Swarm with A Passivity-short Human Operator**” 
@@ -23,9 +29,15 @@ Trans. the Society of Instrument and Control Engineers, Vol. 53, No. 12, pp. 663
 
 ### Conference Article
 * 
+M.W.S. Atman and A. Gusrialdi
+“**Distributed Algorithms for Verifying and Ensuring Strong Connectivity in Directed Networks**”
+2021 60th IEEE Conference on Decision and Control (CDC), **_To be presented**_, 2021.
+
+* 
 M.W.S. Atman, K. Noda, R. Funada, J. Yamauchi, T. Hatanaka, and M. Fujita
 “**On Passivity-Shortage of Human Operators for A Class of Semi-autonomous Robotic Swarms**”
 Proc. of 2nd IFAC Conference on Cyber-Physical and Human Systems, Dec. 14-15, Florida, USA, pp. 21-27, 2018.
+([DOI: 10.1016/j.ifacol.2019.01.008](https://www.sciencedirect.com/science/article/pii/S2405896319300084))
 <br/> *Selected as one of four finalist papers for IFAC CPHS 2018 Young Author Prize 2018*
 
 * 
@@ -44,10 +56,10 @@ M.W.S. Atman, J. Yamauchi, T. Hatanaka and M. Fujita
 SICE 第4回 制御部門マルチシンポジウム, 岡山 Japan, Mar. 6-9, 2E3-1, 2017.
 
 
-
+<!--
 # Teaching Assistant
 Robust Control 2017, 2018.
-
+-->
 
 
 

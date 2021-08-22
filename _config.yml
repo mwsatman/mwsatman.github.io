@@ -10,11 +10,11 @@ permalink:        pretty
 # Setup
 title:            mwsatman
 tagline:          'personal website'
-description:      'Ph.D. student, <br/>
-  <a href="http://www.fl.ctrl.titech.ac.jp/" target="_blank">Fujita-Yamauchi Lab. and Hatanaka Lab.</a>
+description:      'Postdoctoral Research Fellow, <br/>
+  <a href="https://research.tuni.fi/iines/" target="_blank">Intelligent Network Systems</a>
   <br/>
-  Department of Systems and Control Engineering,
-  Tokyo Institute of Technology'
+  Faculty of Engineering and Natural Sciences | Automation Technology and Mechanical Engineering
+  Tampere University'
 url:              https://mwsatman.github.io
 baseurl:          /
 
