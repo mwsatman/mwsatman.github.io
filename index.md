@@ -9,6 +9,11 @@ Cooperative control of human - robotic network, Distributed control
 
 # Publications
 ### Journal Article
+*
+M.W.S. Atman and A. Gusrialdi, 
+“**Finite-Time Distributed Algorithms for Verifying and Ensuring Strong Connectivity of Directed Networks,**”  
+IEEE Trans. Network Science and Engineering, Vol. 9, No. 6, pp. 4379-4392, Nov. 2022. ([doi: 10.1109/TNSE.2022.3200466](https://ieeexplore.ieee.org/document/9866876)) (Open Access). 
+
 * 
 R. Funada, X. Cai, G. Notomista, M.W.S. Atman, J. Yamauchi, M. Fujita, M. Egerstedt
 “**Coordination of Robot Teams Over Long Distances: From Georgia Tech to Tokyo Tech and Back-An 11,000-km Multirobot Experiment**” 
@@ -29,9 +34,22 @@ Trans. the Society of Instrument and Control Engineers, Vol. 53, No. 12, pp. 663
 
 ### Conference Article
 * 
+K.Priandana, M.W.S. Atman and A. Gusrialdi
+“**Persistent Monitoring for Indoor Farming using Static and Mobile Sensors**”
+7th IFAC Conference on Sensing, Control and Automation Technologies for Agriculture (AGRICONTROL 2022), pp. 129-134, Germany, 2022.
+([DOI: 10.1016/j.ifacol.2022.11.127](https://www.sciencedirect.com/science/article/pii/S2405896322027604))
+
+* 
+A. Aynala, M.W.S. Atman and A. Gusrialdi
+“**Communication-Efﬁcient Formation Maintenance for Multi-Robot System with a Safety Certiﬁcate**”
+2022 IEEE Conference on Control Technology and Applications (CCTA), pp. 608-613, Italy, 2022.
+
+
+* 
 M.W.S. Atman and A. Gusrialdi
 “**Distributed Algorithms for Verifying and Ensuring Strong Connectivity in Directed Networks**”
-2021 60th IEEE Conference on Decision and Control (CDC), **_To be presented_**, 2021.
+2021 60th IEEE Conference on Decision and Control (CDC), pp. 4798-4803, USA, 2021.
+([DOI: 10.1109/CDC45484.2021.9683729](https://ieeexplore.ieee.org/document/9683729))
 
 * 
 M.W.S. Atman, K. Noda, R. Funada, J. Yamauchi, T. Hatanaka, and M. Fujita
