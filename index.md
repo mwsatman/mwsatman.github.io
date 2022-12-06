@@ -9,7 +9,7 @@ Cooperative control of human - robotic network, Distributed control
 
 # Publications
 ### Journal Article
-*
+* 
 M.W.S. Atman and A. Gusrialdi, 
 “**Finite-Time Distributed Algorithms for Verifying and Ensuring Strong Connectivity of Directed Networks,**”  
 IEEE Trans. Network Science and Engineering, Vol. 9, No. 6, pp. 4379-4392, Nov. 2022. ([doi: 10.1109/TNSE.2022.3200466](https://ieeexplore.ieee.org/document/9866876)) (Open Access). 
