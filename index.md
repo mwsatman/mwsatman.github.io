@@ -48,9 +48,10 @@ Trans. the Society of Instrument and Control Engineers, Vol. 53, No. 12, pp. 663
 
 
 ### Conference Article
+* 
 M.W.S. Atman and A. Gusrialdi
 “**Distributed Algorithm to Establish Strong Connectivity in Spatially Distributed Networks**”
-2024 IEEE European Control Conference (ECC), submitted, 2022.
+2024 IEEE European Control Conference (ECC), submitted, 2024.
 
 * 
 K.Priandana, M.W.S. Atman and A. Gusrialdi
