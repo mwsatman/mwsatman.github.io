@@ -10,6 +10,21 @@ Cooperative control of human - robotic network, Distributed control
 # Publications
 ### Journal Article
 * 
+M.W.S. Atman, M.R. Fikri, K.Priandana, and A. Gusrialdi, 
+“**A Two-Layer Control Framework for Persistent Monitoring of a Large Area with a Robotic Sensor Network,**”  
+IEEE Access, under review, 2023.
+
+* 
+S. Keyumarsi, M.W.S. Atman, and A. Gusrialdi, 
+“**LiDAR-based Online Control Barrier Function Synthesis for Safe Navigation in Unknown Environments,**”  
+IEEE Robotics and Automation Letters, early access, Dec. 2023. ([doi: 10.1109/LRA.2023.3339059](https://ieeexplore.ieee.org/document/10339852)) (Open Access). 
+
+* 
+M.S. Sadabadi, M.W.S. Atman, A. Aynala, and A. Gusrialdi, 
+“**Resilient Design of Leader-Follower Consensus Against Cyber-Attacks,**”  
+IEEE Trans. Control of Network Systems, early access, Nov. 2023. ([doi: 10.1109/TCNS.2023.3332778](https://ieeexplore.ieee.org/document/10316652)). 
+
+* 
 M.W.S. Atman and A. Gusrialdi, 
 “**Finite-Time Distributed Algorithms for Verifying and Ensuring Strong Connectivity of Directed Networks,**”  
 IEEE Trans. Network Science and Engineering, Vol. 9, No. 6, pp. 4379-4392, Nov. 2022. ([doi: 10.1109/TNSE.2022.3200466](https://ieeexplore.ieee.org/document/9866876)) (Open Access). 
@@ -33,6 +48,10 @@ Trans. the Society of Instrument and Control Engineers, Vol. 53, No. 12, pp. 663
 
 
 ### Conference Article
+M.W.S. Atman and A. Gusrialdi
+“**Distributed Algorithm to Establish Strong Connectivity in Spatially Distributed Networks**”
+2024 IEEE European Control Conference (ECC), submitted, 2022.
+
 * 
 K.Priandana, M.W.S. Atman and A. Gusrialdi
 “**Persistent Monitoring for Indoor Farming using Static and Mobile Sensors**”
