@@ -1,0 +1,41 @@
+---
+title: Automated Microaneurysm Detection Using Mathematical Morphology
+authors:
+- Ardimas Andi Purwita
+- Kresno Adityowibowo
+- Ashlih Dameitry
+- Made Widhi Surya Atman
+date: '2011-11-01'
+publishDate: '2024-05-04T03:11:18.507914Z'
+publication_types:
+- paper-conference
+publication: '*2011 2nd International Conference on Instrumentation, Communications,
+  Information Technology, and Biomedical Engineering*'
+doi: 10.1109/ICICI-BME.2011.6108606
+abstract: Diabetes is one of the most rapidly increasing health threats worldwide.
+  One of the further abnormalities is on retina (diabetic retinopathy). Early treatment
+  can be conduct from detection of microaneurysms. The main concentration of this
+  paper is the algorithm to detect microaneurysm with mathematical morphology. The
+  mathematical morphology is choosen because microaneurysms tend to have typical shape.
+  Generally, the algorithm is consist of three stages. The first is preprocessing,
+  the second is detecting candidate microaneurysms, and the third is postprocessing
+  handling the process of removing unused features. The performances is evaluated
+  using the database from DIARETDB1 which provides ground truth collected from several
+  experts and a strict evaluation protocol. The optimal performance will be satified
+  when considering green channel obtaining, PAL size image processing, adaptive histogram
+  equalization threshold at 0.03, canny edge detection threshold at 0.16, MAs and
+  optimum microaneurysms size at 5 to 16 pixels.
+tags:
+- Adaptive equalizers
+- Biomedical optical imaging
+- Diabetes
+- edge detection
+- Histograms
+- Image edge detection
+- mathematical morphology
+- microaneurysm
+- Morphology
+- postprocessing
+- preprocessing
+- Sensitivity
+---
