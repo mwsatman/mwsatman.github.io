@@ -10,7 +10,7 @@ date: '2024-05-04T03:11:19.434981Z'
 publishDate: '2024-05-04T03:11:19.434981Z'
 publication_types:
 - article
-publication: '*2024 IEEE 20th International Conference on Automation Science and Engineering* - **submitted**'
+publication: '*2024 IEEE 20th International Conference on Automation Science and Engineering* - **presented, to appear**'
 doi: ''
 abstract: This paper considers the problem of multi-robot
   task allocation given by a binary optimization problem with

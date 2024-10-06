@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Tampere University
-    url: https://www.tuni.fi/en/widhi-atman
+  - name: TIERS, University of Turku
+    url: https://tiers.utu.fi/the-team
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed control of networked systems, human–swarm interaction, and dissipative-based control.
@@ -126,8 +126,16 @@ social:
 highlight_name: true
 ---
 
-I am a [Postdoctoral Research Fellow](https://www.tuni.fi/en/widhi-atman) at the Faculty of Engineering and Natural Sciences, Tampere University, Finland. 
-Currently, I work with Assoc. Prof. Azwirman Gusrialdi in his research group [Intelligent Networked Systems (IINES)](https://research.tuni.fi/iines/), where I have also been active in developing and maintaining the [Networked Robotics Laboratory](https://research.tuni.fi/iines/nebolab/).
+I am a Postdoctoral Researcher at Dept. Computing, University of Turku, Finland. Currently, I work with Prof. Tomi Westerlund in his research group [Turku Intelligent Embedded and Robotic Systems (TIERS)](https://tiers.utu.fi/tiers-home/).
 {style="text-align: justify;"}
 
-*Homepage is under construction. More information will be updated gradually in the upcoming weeks.*
+Previously, I have been part of
+Assoc. Prof. Azwirman Gusrialdi's research group of [Intelligent Networked Systems (IINES)](https://research.tuni.fi/iines/) at Tampere University, Finland, where I have been active in developing and maintaining the [Networked Robotics Laboratory](https://research.tuni.fi/iines/nebolab/).
+I received my Dr.Eng degree from Tokyo Institute of Technology, Japan, under the supervision of by Prof. Masayuki Fujita and Prof. Takeshi Hatanaka. 
+{style="text-align: justify;"}
+
+<!-- I am a [Postdoctoral Research Fellow](https://www.tuni.fi/en/widhi-atman) at the Faculty of Engineering and Natural Sciences, Tampere University, Finland. 
+Currently, I work with Assoc. Prof. Azwirman Gusrialdi in his research group [Intelligent Networked Systems (IINES)](https://research.tuni.fi/iines/), where I have also been active in developing and maintaining the [Networked Robotics Laboratory](https://research.tuni.fi/iines/nebolab/).
+{style="text-align: justify;"} -->
+
+*Homepage is under construction. More information will be updated gradually in the upcoming weeks/months.*

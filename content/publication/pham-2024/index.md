@@ -10,7 +10,7 @@ date: '2024-05-04T03:11:20.434981Z'
 publishDate: '2024-05-04T03:11:20.434981Z'
 publication_types:
 - article
-publication: '*IEEE Robotics and Automation Letters* - **submitted**'
+publication: '*IEEE Robotics and Automation Letters* - **Early Access**'
 doi: ''
 abstract: This paper considers the problem of formation
   control of multi-robot systems represented by a graph featuring

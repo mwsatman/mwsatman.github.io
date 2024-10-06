@@ -8,7 +8,7 @@ date: '2024-05-04T03:11:18.434981Z'
 publishDate: '2024-05-04T03:11:18.434981Z'
 publication_types:
 - article
-publication: '*The 22nd European Control Conference (ECC)* - **to be presented**'
+publication: '*The 22nd European Control Conference (ECC)*'
 doi: ''
 abstract: This paper presents a distributed algorithm for
   ensuring the strong connectivity of spatially distributed networks where the communication network topology depends on
