@@ -126,11 +126,11 @@ social:
 highlight_name: true
 ---
 
-I am a Postdoctoral Researcher at Dept. Computing, University of Turku, Finland. Currently, I work with Prof. Tomi Westerlund in his research group [Turku Intelligent Embedded and Robotic Systems (TIERS)](https://tiers.utu.fi/tiers-home/).
+I am a Postdoctoral Researcher at Robotics and Automation System, University of Turku, Finland, where I work with Prof. Tomi Westerlund in his research group [Turku Intelligent Embedded and Robotic Systems (TIERS)](https://tiers.utu.fi/tiers-home/).
 {style="text-align: justify;"}
 
-Previously, I have been part of
-Assoc. Prof. Azwirman Gusrialdi's research group of [Intelligent Networked Systems (IINES)](https://research.tuni.fi/iines/) at Tampere University, Finland, where I have been active in developing and maintaining the [Networked Robotics Laboratory](https://research.tuni.fi/iines/nebolab/).
+Currently, I am also a Visiting Researcher at Tampere University, Finland, where
+I have been part of Assoc. Prof. Azwirman Gusrialdi's research group of [Intelligent Networked Systems (IINES)](https://research.tuni.fi/iines/) and I have been active in developing and maintaining the [Networked Robotics Laboratory](https://research.tuni.fi/iines/nebolab/).
 I received my Dr.Eng degree from Tokyo Institute of Technology, Japan, under the supervision of by Prof. Masayuki Fujita and Prof. Takeshi Hatanaka. 
 {style="text-align: justify;"}
 
